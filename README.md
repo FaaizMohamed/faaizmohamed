@@ -39,8 +39,7 @@ Building **intelligent, full-stack solutions** end-to-end. I take products from 
 ### 1) AI Sketch Calculator — Hand-drawn math to equations (Full-Stack AI)
 **Stack:** React, TypeScript, **FastAPI (Python), Google Gemini**, GCP, Render  
 **Highlights:** **95% accuracy** · **3×** faster solving · Rapid A/B testing  
-**What I did:** UX, scalable **FastAPI** service, Gemini integration, CI/CD & cloud deploys.  
-➡️ *Demo & write-up:* [Portfolio](http://faaiz.onrender.com)
+**What I did:** UX, scalable **FastAPI** service, Gemini integration, CI/CD & cloud deploys.
 
 ---
 
