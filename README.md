@@ -64,8 +64,8 @@ Owned EasyRoute end-to-end; JWT auth; AWS infra; query performance wins; Agile/J
 ---
 
 ## 🎓 Education
-**University of Texas at Austin — M.S. in Data Science** *(Expected May 2026)*  
-**Crescent Engineering College — B.Tech in AI & Data Science**
+**University of Texas at Austin — Master of Science in Data Science** *(Expected May 2026)*  
+**Crescent Engineering College — Bachelor of Technology in Artificial Intelligence & Data Science**
 
 ---
 
