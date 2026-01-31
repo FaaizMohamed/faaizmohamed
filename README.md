@@ -1,86 +1,200 @@
 <div align="center">
 
-# Faaiz Mohamed
-### MS Data Science @ UT Austin | Full-Stack SWE | AI Engineer
+# 👋 Hi, I'm Faaiz Mohamed
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-faaiz.onrender.com-000?style=for-the-badge&logo=vercel&logoColor=white)](http://faaiz.onrender.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Faaiz_Mohamed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fmfaaiz)
-[![GitHub](https://img.shields.io/badge/GitHub-FaaizMohamed-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FaaizMohamed)
-[![Email](https://img.shields.io/badge/Email-fmfaaiz%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fmfaaiz@gmail.com)
+### MS Data Science @ UT Austin | Full-Stack Engineer | AI Enthusiast
 
 <br />
 
-> I build **intelligent, full-stack solutions** from 0 to 1. My focus is taking products from **model training (PyTorch/Gemini)** to **scalable deployment (FastAPI/React)** on **AWS/GCP** with robust CI/CD.
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-faaiz.onrender.com-FF6B6B?style=for-the-badge&logoColor=white)](http://faaiz.onrender.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Faaiz_Mohamed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fmfaaiz)
+[![GitHub](https://img.shields.io/badge/GitHub-FaaizMohamed-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FaaizMohamed)
+[![Email](https://img.shields.io/badge/Email-Let's_Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fmfaaiz@gmail.com)
+
+<br />
+
+```diff
++ Building intelligent, full-stack solutions from concept to production
++ Turning ML models into scalable, real-world applications
++ Shipping products that users love and businesses depend on
+```
 
 </div>
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🚀 What I Do
 
-| Category | Stack |
-| :--- | :--- |
-| **Languages** | [cite_start]Python, TypeScript, JavaScript, Java, SQL, HTML5, CSS3 [cite: 4] |
-| **Frontend** | [cite_start]React.js, React Native, Tailwind CSS, Material-UI [cite: 5] |
-| **Backend** | [cite_start]Node.js, Express.js, FastAPI, Flask, RESTful APIs, GraphQL [cite: 5] |
-| **AI / Data** | [cite_start]PyTorch, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Gemini AI [cite: 5] |
-| **Cloud & DevOps** | [cite_start]AWS, GCP, Azure, Docker, GitHub Actions, Jenkins [cite: 6] |
-| **Databases** | [cite_start]MongoDB, PostgreSQL, Milvus, MySQL [cite: 5] |
+I specialize in bridging the gap between **AI research** and **production systems**. From training models in PyTorch to deploying them with FastAPI on cloud infrastructure, I build end-to-end solutions that scale.
+
+**My sweet spot:** Taking a product from 0 → 1, with a focus on intelligent features, seamless UX, and rock-solid engineering.
 
 ---
 
-## 💼 Professional Experience
+## 🛠️ Tech Stack
 
-### **Software Engineer Intern** @ Elite Innovative Solutions Inc
-*Sep 2025 - Present | McKinney, TX*
-* [cite_start]**AI Recruitment Platform:** Developing a full-stack platform using React, FastAPI, Milvus, and PostgreSQL featuring semantic search and candidate scoring[cite: 19].
-* [cite_start]**Auth Architecture:** Architected a multi-tenant OAuth 2.0 system (GCP & Azure), reducing user onboarding time by **40%**[cite: 20].
-* [cite_start]**Performance Engineering:** Optimized FastAPI and PostgreSQL schemas via indexing and query tuning, reducing latency by **20%**[cite: 23].
-* [cite_start]**Feature Integration:** Integrated Google/Outlook scheduling and established Stripe subscriptions with RBAC feature gating[cite: 21, 22].
+<table>
+<tr>
+<td valign="top" width="50%">
 
-### **Triage Specialist** @ Wipro @ Meta
-*Oct 2025 - Present | Austin, TX*
-* [cite_start]**High-Volume Triage:** Prioritize 18+ daily tickets for unreleased products with a **95-98%** SLA adherence rate[cite: 12, 13].
-* [cite_start]**Accuracy:** Maintain a **99%** first-time routing accuracy to engineering teams by reproducing steps and collecting logs[cite: 14].
-* [cite_start]**Knowledge Base:** Improved documentation and tagging standards, reducing repetitive ticket triage time by **15%**[cite: 15].
+### Frontend & Mobile
+```javascript
+const frontend = {
+  frameworks: ['React.js', 'React Native'],
+  styling: ['Tailwind CSS', 'Material-UI'],
+  languages: ['TypeScript', 'JavaScript']
+}
+```
 
-### **Software Engineer Intern** @ Telesto Consulting Services
-*Sep 2023 - Apr 2024 | Naperville, IL*
-* [cite_start]**Product Launch:** Engineered "EasyRoute" (Web, Android, iOS) from scratch using the MERN stack, adopted by **50+** field reps[cite: 26, 27].
-* [cite_start]**Impact:** Resulted in a **20%** increase in sales productivity for the client[cite: 27].
-* [cite_start]**Optimization:** Implemented Zustand caching and optimized MongoDB queries, reducing data retrieval time by **25%** and load times by **30%**[cite: 28].
-* [cite_start]**DevOps:** Deployed to AWS via CI/CD pipelines, cutting server costs by **15%** through resource optimization[cite: 29].
+### Backend & APIs
+```python
+backend = {
+    'frameworks': ['FastAPI', 'Express.js', 'Flask'],
+    'architecture': ['RESTful APIs', 'GraphQL'],
+    'runtime': ['Node.js', 'Python']
+}
+```
+
+</td>
+<td valign="top" width="50%">
+
+### AI & Data Science
+```python
+ai_stack = {
+    'ml_frameworks': ['PyTorch', 'Scikit-learn'],
+    'data_tools': ['Pandas', 'NumPy'],
+    'visualization': ['Matplotlib', 'Seaborn'],
+    'ai_platforms': ['Gemini AI']
+}
+```
+
+### Cloud & Infrastructure
+```yaml
+cloud:
+  providers: [AWS, GCP, Azure]
+  containers: [Docker]
+  ci_cd: [GitHub Actions, Jenkins]
+  databases: [PostgreSQL, MongoDB, Milvus, MySQL]
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌟 Key Projects
+## 💼 Professional Journey
 
-### 🎨 **AI Sketch Calculator**
-*TypeScript, Python, React, FastAPI, Google Gemini AI*
-* [cite_start]Built a sketch-to-equation calculator with an end-to-end drawing-to-solution workflow[cite: 33].
-* [cite_start]Leveraged **Gemini AI** for real-time processing, achieving **95% accuracy** and reducing solve time by **3x**[cite: 34].
+### 🏢 Software Engineer Intern @ Elite Innovative Solutions Inc
+**Sep 2025 - Present | McKinney, TX**
 
-### 🧠 **Employee Attrition & Emotion Detection**
-*Python, Streamlit, XGBoost, OpenCV, DeepFace*
-* [cite_start]Enhanced an ML model to predict employee turnover with **85% accuracy** using Random Forest & XGBoost[cite: 35].
-* [cite_start]Integrated OpenCV and DeepFace for real-time emotion detection with **90% accuracy**[cite: 36].
+Building next-gen recruitment technology:
+- 🤖 **AI-Powered Platform:** Architecting a full-stack recruitment system with semantic search and intelligent candidate scoring using React, FastAPI, Milvus & PostgreSQL
+- 🔐 **Enterprise Auth:** Built multi-tenant OAuth 2.0 system (GCP & Azure) → **40% faster** user onboarding
+- ⚡ **Performance Wins:** Optimized database queries and API endpoints → **20% latency reduction**
+- 🔌 **Integrations:** Shipped Google/Outlook calendar sync + Stripe subscriptions with role-based access control
+
+---
+
+### 📱 Triage Specialist @ Wipro (Client: Meta)
+**Oct 2025 - Present | Austin, TX**
+
+Supporting unreleased products at scale:
+- 🎯 **High-Impact Triage:** Processing 18+ daily tickets with **95-98% SLA** adherence
+- ✅ **Precision Routing:** Maintaining **99% accuracy** in first-time ticket routing to engineering teams
+- 📚 **Knowledge Systems:** Streamlined documentation and tagging → **15% faster** ticket resolution
+
+---
+
+### 💻 Software Engineer Intern @ Telesto Consulting Services
+**Sep 2023 - Apr 2024 | Naperville, IL**
+
+Delivered a field sales revolution:
+- 🚀 **Product Launch:** Built "EasyRoute" from scratch (Web + Mobile) using MERN stack → **50+ field reps** adopted
+- 📈 **Business Impact:** Drove **20% increase** in sales team productivity
+- ⚙️ **Performance Engineering:** Implemented smart caching + query optimization → **25% faster** data retrieval, **30% faster** page loads
+- ☁️ **Cloud Excellence:** Deployed on AWS with CI/CD → **15% cost reduction** through infrastructure optimization
+
+---
+
+## 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎨 AI Sketch Calculator
+**Tech:** TypeScript, Python, React, FastAPI, Gemini AI
+
+Transform hand-drawn equations into solutions:
+- ✨ Real-time drawing-to-computation pipeline
+- 🎯 **95% accuracy** with Gemini AI integration
+- ⚡ **3x faster** than traditional input methods
+
+[View Project →](https://github.com/FaaizMohamed)
+
+</td>
+<td width="50%">
+
+### 🧠 Employee Analytics Suite
+**Tech:** Python, Streamlit, XGBoost, OpenCV, DeepFace
+
+Predict attrition & detect emotions:
+- 📊 **85% accuracy** in turnover prediction
+- 😊 Real-time emotion detection at **90% accuracy**
+- 🔄 End-to-end ML pipeline with live dashboard
+
+[View Project →](https://github.com/FaaizMohamed)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🎓 Education
 
-**Master of Science in Data Science**
-[cite_start]*The University of Texas at Austin (Expected May 2026)* [cite: 38, 41, 42]
+<div align="center">
 
-**Bachelor of Technology in Artificial Intelligence & Data Science**
-[cite_start]*Crescent Engineering College (May 2024)* [cite: 39, 40, 44]
+| Degree | Institution | Timeline |
+|:------:|:-----------:|:--------:|
+| **MS in Data Science** | The University of Texas at Austin 🤘 | *Expected May 2026* |
+| **B.Tech in AI & Data Science** | Crescent Engineering College | *May 2024* |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Faaiz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaaizMohamed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FaaizMohamed&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
+
+</div>
 
 ---
 
 <div align="center">
-<p>Seeking <b>Full-Stack SWE</b> and <b>Applied AI</b> roles.</p>
-<p>If you’re building intelligent, user-facing products, let’s connect.</p>
 
-![Faaiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaaizMohamed&show_icons=true&theme=radical)
+## 🤝 Let's Build Something Amazing
+
+I'm actively seeking **Full-Stack SWE** and **Applied AI** roles where I can ship intelligent, user-facing products that make a real impact.
+
+**If you're solving hard problems with great people, I'd love to connect.**
+
+<br />
+
+[![Let's Connect](https://img.shields.io/badge/📧_Let's_Talk-fmfaaiz@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fmfaaiz@gmail.com)
+
+<br />
+
+*"Code is poetry, data tells stories, and great products change lives."*
+
+---
+
+⭐ **Fun Fact:** I can debug code faster with a good cup of coffee ☕
 
 </div>
