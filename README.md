@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Faaiz Mohamed
 
-### MS Data Science @ UT Austin | Full-Stack Engineer | AI Enthusiast
+### MS Data Science @ UT Austin | Software Engineer | AI Enthusiast
 
 <br />
 
