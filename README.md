@@ -25,7 +25,7 @@
 
 ## 🚀 What I Do
 
-I specialize in bridging the gap between **AI research** and **production systems**. From training models in PyTorch to deploying them with FastAPI on cloud infrastructure, I build end-to-end solutions that scale.
+I specialize in building **production-grade, full-stack applications** that solve real business problems. From architecting scalable backend systems to crafting intuitive user interfaces, I ship features that users love and systems that just work.
 
 **My sweet spot:** Taking a product from 0 → 1, with a focus on intelligent features, seamless UX, and rock-solid engineering.
 
