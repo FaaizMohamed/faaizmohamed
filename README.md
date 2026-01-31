@@ -1,94 +1,86 @@
 <div align="center">
 
-# 👋 Hi, I'm **Faaiz Mohamed**
+# Faaiz Mohamed
+### MS Data Science @ UT Austin | Full-Stack SWE | AI Engineer
 
-**MSDS @ UT Austin · Full-Stack SWE & Applied AI Engineer**
+[![Portfolio](https://img.shields.io/badge/Portfolio-faaiz.onrender.com-000?style=for-the-badge&logo=vercel&logoColor=white)](http://faaiz.onrender.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Faaiz_Mohamed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fmfaaiz)
+[![GitHub](https://img.shields.io/badge/GitHub-FaaizMohamed-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FaaizMohamed)
+[![Email](https://img.shields.io/badge/Email-fmfaaiz%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fmfaaiz@gmail.com)
 
-Building **intelligent, full-stack solutions** end-to-end. I take products from **model training (PyTorch/Gemini)** to **scalable deployment (FastAPI/React)** on **AWS/GCP** with robust CI/CD.
+<br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-faaiz.onrender.com-informational?logo=vercel)](http://faaiz.onrender.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@fmfaaiz-blue?logo=linkedin)](https://www.linkedin.com/in/fmfaaiz)
-[![Email](https://img.shields.io/badge/Email-fmfaaiz%40gmail.com-red?logo=gmail)](mailto:fmfaaiz@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-@FaaizMohamed-black?logo=github)](https://github.com/FaaizMohamed)
+> I build **intelligent, full-stack solutions** from 0 to 1. My focus is taking products from **model training (PyTorch/Gemini)** to **scalable deployment (FastAPI/React)** on **AWS/GCP** with robust CI/CD.
 
 </div>
 
 ---
 
-## 🚀 Impact at a Glance
-- **EasyRoute**: Cross-platform route planner for **50+** field reps → **20%** sales productivity ↑, **99.9%** uptime on AWS.
-- **AI Sketch Calculator** (React/FastAPI/Gemini): **95% accuracy**, **3×** faster solving, fully owned end-to-end.
-- **CresCafé** (React Native + AWS Amplify): **30%** food waste ↓; scaled to **4,600+** peak concurrent users.
-- **Applied ML**: Deployed (XGBoost/DeepFace) with **85%+** attrition accuracy and **90%** emotion detection.
+## 🛠️ Technical Arsenal
 
-> I love taking products from **0 → 1**, defining measurable success, and shipping clean UX with real intelligence.
-
----
-
-## 🧰 Tech Stack
-- **Languages:** `Python`, `TypeScript/JavaScript`, `Java`, `SQL`
-- **Full-Stack:** `React`, `React Native`, `Node/Express`, `FastAPI`
-- **AI/ML:** `PyTorch`, `Gemini`, `Scikit-learn`, `Pandas/NumPy`
-- **Cloud & Ops:** `AWS`, `GCP`, `Docker`, `GitHub Actions (CI/CD)`
-- **Data & Auth:** `PostgreSQL`, `MongoDB`, `GraphQL/REST`, `OAuth2/JWT`
+| Category | Stack |
+| :--- | :--- |
+| **Languages** | [cite_start]Python, TypeScript, JavaScript, Java, SQL, HTML5, CSS3 [cite: 4] |
+| **Frontend** | [cite_start]React.js, React Native, Tailwind CSS, Material-UI [cite: 5] |
+| **Backend** | [cite_start]Node.js, Express.js, FastAPI, Flask, RESTful APIs, GraphQL [cite: 5] |
+| **AI / Data** | [cite_start]PyTorch, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Gemini AI [cite: 5] |
+| **Cloud & DevOps** | [cite_start]AWS, GCP, Azure, Docker, GitHub Actions, Jenkins [cite: 6] |
+| **Databases** | [cite_start]MongoDB, PostgreSQL, Milvus, MySQL [cite: 5] |
 
 ---
 
-## 🌟 Featured Projects
+## 💼 Professional Experience
 
-### 1) AI Sketch Calculator — Hand-drawn math to equations (Full-Stack AI)
-**Stack:** React, TypeScript, **FastAPI (Python), Google Gemini**, GCP, Render  
-**Highlights:** **95% accuracy** · **3×** faster solving · Rapid A/B testing  
-**What I did:** UX, scalable **FastAPI** service, Gemini integration, CI/CD & cloud deploys.
+### **Software Engineer Intern** @ Elite Innovative Solutions Inc
+*Sep 2025 - Present | McKinney, TX*
+* [cite_start]**AI Recruitment Platform:** Developing a full-stack platform using React, FastAPI, Milvus, and PostgreSQL featuring semantic search and candidate scoring[cite: 19].
+* [cite_start]**Auth Architecture:** Architected a multi-tenant OAuth 2.0 system (GCP & Azure), reducing user onboarding time by **40%**[cite: 20].
+* [cite_start]**Performance Engineering:** Optimized FastAPI and PostgreSQL schemas via indexing and query tuning, reducing latency by **20%**[cite: 23].
+* [cite_start]**Feature Integration:** Integrated Google/Outlook scheduling and established Stripe subscriptions with RBAC feature gating[cite: 21, 22].
+
+### **Triage Specialist** @ Wipro @ Meta
+*Oct 2025 - Present | Austin, TX*
+* [cite_start]**High-Volume Triage:** Prioritize 18+ daily tickets for unreleased products with a **95-98%** SLA adherence rate[cite: 12, 13].
+* [cite_start]**Accuracy:** Maintain a **99%** first-time routing accuracy to engineering teams by reproducing steps and collecting logs[cite: 14].
+* [cite_start]**Knowledge Base:** Improved documentation and tagging standards, reducing repetitive ticket triage time by **15%**[cite: 15].
+
+### **Software Engineer Intern** @ Telesto Consulting Services
+*Sep 2023 - Apr 2024 | Naperville, IL*
+* [cite_start]**Product Launch:** Engineered "EasyRoute" (Web, Android, iOS) from scratch using the MERN stack, adopted by **50+** field reps[cite: 26, 27].
+* [cite_start]**Impact:** Resulted in a **20%** increase in sales productivity for the client[cite: 27].
+* [cite_start]**Optimization:** Implemented Zustand caching and optimized MongoDB queries, reducing data retrieval time by **25%** and load times by **30%**[cite: 28].
+* [cite_start]**DevOps:** Deployed to AWS via CI/CD pipelines, cutting server costs by **15%** through resource optimization[cite: 29].
 
 ---
 
-### 2) EasyRoute — Cross-platform Route Planner (Scalable Full-Stack)
-**Stack:** React, React Native, Node/Express, MongoDB, **AWS**, Zustand, Jira/Agile  
-**Highlights:** 50+ active reps · **20%** sales productivity ↑ · **99.9%** uptime  
-**What I did:** Complete **0 → 1** build, JWT auth, perf tuning (25% faster queries), CI/CD & AWS.
+## 🌟 Key Projects
 
----
+### 🎨 **AI Sketch Calculator**
+*TypeScript, Python, React, FastAPI, Google Gemini AI*
+* [cite_start]Built a sketch-to-equation calculator with an end-to-end drawing-to-solution workflow[cite: 33].
+* [cite_start]Leveraged **Gemini AI** for real-time processing, achieving **95% accuracy** and reducing solve time by **3x**[cite: 34].
 
-### 3) Attrition Prediction & Emotion Detection (Applied ML)
-**Stack:** Streamlit, **XGBoost/Random Forest, OpenCV, DeepFace**  
-**Highlights:** **85%+** attrition accuracy · **90%** emotion detection  
-**What I did:** Data pipelines, model training/eval, Streamlit dashboards.
-
----
-
-## 💼 Experience
-**Software Engineering Intern — Telesto Consulting Services** *(Sep 2023 – Apr 2024)*  
-Owned EasyRoute end-to-end; JWT auth; AWS infra; query performance wins; Agile/Jira; **CI/CD**.
+### 🧠 **Employee Attrition & Emotion Detection**
+*Python, Streamlit, XGBoost, OpenCV, DeepFace*
+* [cite_start]Enhanced an ML model to predict employee turnover with **85% accuracy** using Random Forest & XGBoost[cite: 35].
+* [cite_start]Integrated OpenCV and DeepFace for real-time emotion detection with **90% accuracy**[cite: 36].
 
 ---
 
 ## 🎓 Education
-**University of Texas at Austin — Master of Science in Data Science** *(Expected May 2026)*  
-**Crescent Engineering College — Bachelor of Technology in Artificial Intelligence & Data Science**
+
+**Master of Science in Data Science**
+[cite_start]*The University of Texas at Austin (Expected May 2026)* [cite: 38, 41, 42]
+
+**Bachelor of Technology in Artificial Intelligence & Data Science**
+[cite_start]*Crescent Engineering College (May 2024)* [cite: 39, 40, 44]
 
 ---
 
-## 🔬 Current Focus
-- Clean, responsive UIs with **React + Tailwind**
-- Robust, type-safe **APIs with FastAPI/Express**
-- **Practical MLOps**: eval, latency/throughput trade-offs, deployment
-- **DevEx & CI/CD**: automated tests, previews, one-click releases
-
----
-
-## 🤝 Let’s Collaborate
-Seeking **Full-Stack SWE** and **Applied AI** roles. If you’re building intelligent, user-facing products, let’s connect.
-
-**Email:** [fmfaaiz@gmail.com](mailto:fmfaaiz@gmail.com) · **LinkedIn:** [@fmfaaiz](https://www.linkedin.com/in/fmfaaiz) · **Portfolio:** [faaiz.onrender.com](http://faaiz.onrender.com)
-
----
-
-## 📈 GitHub Stats (Auto-Generated)
 <div align="center">
+<p>Seeking <b>Full-Stack SWE</b> and <b>Applied AI</b> roles.</p>
+<p>If you’re building intelligent, user-facing products, let’s connect.</p>
 
-![Faaiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaaizMohamed&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaaizMohamed&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com?user=FaaizMohamed)
+![Faaiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaaizMohamed&show_icons=true&theme=radical)
 
 </div>
