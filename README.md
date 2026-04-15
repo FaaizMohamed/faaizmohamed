@@ -85,6 +85,17 @@ cloud:
 
 ## 💼 Professional Journey
 
+### 🏛️ Programmer III @ Texas Department of Family and Protective Services
+**Apr 2026 - Present | Austin, TX**
+
+Modernizing critical state enterprise systems:
+- 🏗️ **Enterprise Architecture:** Engineered full-stack applications and automated workflows using JavaScript in a cloud PaaS environment → **25% efficiency boost**
+- 🔗 **Robust Integrations:** Architected secure RESTful APIs for cross-system data synchronization → **99% data accuracy**
+- ⚙️ **Process Modernization:** Overhauled legacy systems with event-driven workflows and optimized database transactions → **Saved 30+ hours/week** in manual overhead
+- 🔄 **Agile SDLC:** Managed end-to-end development lifecycles and multi-environment code deployments → **15% faster** time-to-production
+
+---
+
 ### 🏢 Software Engineer Intern @ Elite Innovative Solutions Inc
 **Sep 2025 - Present | McKinney, TX**
 
@@ -97,7 +108,7 @@ Building next-gen recruitment technology:
 ---
 
 ### 📱 Triage Specialist @ Wipro (Client: Meta)
-**Oct 2025 - Present | Austin, TX**
+**Oct 2025 - Apr 2026 | Austin, TX**
 
 Supporting unreleased products at scale:
 - 🎯 **High-Impact Triage:** Processing 18+ daily tickets with **95-98% SLA** adherence
@@ -158,7 +169,7 @@ Predict attrition & detect emotions:
 
 | Degree | Institution | Timeline |
 |:------:|:-----------:|:--------:|
-| **MS in Data Science** | The University of Texas at Austin 🤘 | *Expected May 2026* |
+| **MS in Data Science** | The University of Texas at Austin 🤘 | *Expected Dec 2026* |
 | **B.Tech in AI & Data Science** | Crescent Engineering College | *May 2024* |
 
 </div>
